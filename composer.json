@@ -6,6 +6,15 @@
             "email": "shustr8@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {	"atsumoriso/task_city":"dev-master"		}
+	"repositories":[
+        {     
+			"type": "vcs",       
+			"url": "https://github.com/Atsumoriso/task_city.git"
+		}  
+		],
+	"minimum-stability": "dev",
+    "require": 
+		{	
+		"atsumoriso/task_city":"dev-master"		
+		}
 }
