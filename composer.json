@@ -1,0 +1,11 @@
+{
+    "name": "atsumoriso/smart",
+    "authors": [
+        {
+            "name": "Atsumoriso",
+            "email": "shustr8@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {	"atsumoriso/task_city":"dev-master"		}
+}
