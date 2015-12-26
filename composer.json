@@ -15,6 +15,6 @@
 	"minimum-stability": "dev",
     "require": 
 		{	
-		"task_city":"dev-master"		
+		"pc5-203/task_city":"dev-master"		
 		}
 }
